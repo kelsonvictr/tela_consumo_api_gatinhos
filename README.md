@@ -2,6 +2,8 @@
 
 Este projeto foi criado para **aprender a consumir uma API pública utilizando JavaScript**, e exibir as informações de forma bonita e responsiva com **Bootstrap**. É ideal para quem está começando agora no mundo da programação web.
 
+Projeto na vercel: https://tela-consumo-api-gatinhos.vercel.app/
+
 ---
 
 ## 💡 O que é uma API?
